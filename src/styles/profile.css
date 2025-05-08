@@ -1,0 +1,58 @@
+.profile-section {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 60px 20px;
+  font-family: "Segoe UI", "PingFang SC", "Microsoft YaHei", sans-serif;
+  line-height: 1.7;
+  color: #333;
+  background-color: #fafafa;
+  border-radius: 12px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+}
+
+.profile-title {
+  font-size: 2.5em;
+  font-weight: bold;
+  margin-bottom: 20px;
+  text-align: center;
+  color: #2c3e50;
+}
+
+.profile-intro {
+  font-size: 1.1em;
+  margin-bottom: 40px;
+  text-align: center;
+}
+
+.profile-subtitle {
+  font-size: 1.5em;
+  margin-top: 40px;
+  margin-bottom: 15px;
+  border-left: 4px solid #3498db;
+  padding-left: 10px;
+  color: #2c3e50;
+}
+
+.profile-list {
+  list-style-type: disc;
+  padding-left: 30px;
+  margin-bottom: 30px;
+}
+
+.profile-list li {
+  margin-bottom: 10px;
+}
+
+.profile-text {
+  margin-bottom: 30px;
+}
+
+.profile-contact {
+  list-style-type: none;
+  padding-left: 0;
+  font-size: 1.05em;
+}
+
+.profile-contact li {
+  margin-bottom: 6px;
+}
